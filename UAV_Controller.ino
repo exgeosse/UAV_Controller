@@ -56,7 +56,7 @@ void setup() {
   esc1.attach(9);
   esc2.attach(10);
   esc3.attach(5);
-  esc4.attach(6);
+  esc4.attach(11);
 
   pinMode(ultrasonicTrig, OUTPUT);
   pinMode(ultrasonicEcho, INPUT);
